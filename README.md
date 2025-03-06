@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Tran Si Tien👋</h1>
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Developer;Backend+Engineer;Cloud+Enthusiast" width="auto" height="35" alt="Typing"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Developer;Backend+Engineer" width="auto" height="35" alt="Typing"/>
 </p>
 
 <p align="center">
